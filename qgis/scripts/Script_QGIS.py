@@ -24,7 +24,7 @@ archivos = [f for f in os.listdir(ruta_codigos) if f.endswith(".txt")]
 tiempos = []
 
 # --- Ejecutar cada archivo con medición de tiempo ---
-for archivo in archivos[18:21]:
+for archivo in archivos[:]:
     ruta_completa = os.path.join(ruta_codigos, archivo)
     print(f"⏳ Ejecutando: {archivo}")
     with open(ruta_completa, "r", encoding="utf-8") as f:
