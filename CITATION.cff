@@ -3,9 +3,9 @@ message: "If you use this methodology, please cite this repository."
 title: "Geometric and Thermal Characterization of the Residential Building Stock of Álava"
 type: software
 authors:
-  - family-names: "SURNAME"
-    given-names: "NAME"
+  - family-names: "EZKERRO"
+    given-names: "ARITZ"
 version: 0.1.0
 date-released: 2026-11-14
-repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
+repository-code: "https://github.com/aritz-ezkerro/geometric-and-thermal-characterization-alava"
 license: "TBD"
