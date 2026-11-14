@@ -24,7 +24,7 @@ The main objectives are:
 - To provide a reproducible methodology that can be applied to a wider geographical area.
 
 ## 3. Methodology
-
+![Methodology workflow](results/figures/methodology_workflow.png)
 The methodology consists of two main stages:
 
 1. **Geometric characterization using QGIS:** processing cadastral information and digital surface models to derive the geometric and physical parameters required for the analysis.
