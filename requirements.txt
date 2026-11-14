@@ -1,0 +1,10 @@
+# Python dependencies for the thermal characterization workflow
+
+# Python version: 3.9
+
+scikit-learn==0.24.2
+xgboost==1.7
+joblib
+pandas
+xlsxwriter
+openpyxl
