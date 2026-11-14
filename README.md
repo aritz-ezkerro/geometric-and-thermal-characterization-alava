@@ -79,3 +79,11 @@ The final results can be used for spatial analysis and characterization of the r
 
 The applicability and computational performance of the methodology depend on the availability and quality of the input data, software compatibility, predictive model assumptions and the size of the study area.
 
+## 8. Project Status
+
+This repository is currently under development.
+
+The methodology, processing scripts, predictive models and documentation are being progressively organized and prepared for reproducible application to the residential building stock of Álava (Spain).
+
+Further updates will include detailed processing instructions, data specifications, validation procedures and examples of the expected outputs.
+
