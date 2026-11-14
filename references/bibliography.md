@@ -4,11 +4,13 @@ This file lists the scientific publications and methodological references suppor
 
 ## Methodological Background
 
-The methodology is based on previous research developed for the characterization of building stocks using geospatial data and predictive models.
+The methodology builds on previous research into the geospatial characterization of building stocks and the assessment of building energy performance at neighbourhood scale.
 
-The following publication is a key methodological reference:
+The following publications are key methodological references:
 
-- *The Open Data Potential for the Geospatial Characterisation of Building Stock on an Urban Scale: Methodology and Implementation in a Case Study.*
+1. *The Open Data Potential for the Geospatial Characterisation of Building Stock on an Urban Scale: Methodology and Implementation in a Case Study.*
+
+2. *Developing Simple Models for Analysing Energy Performance of Buildings at Neighbourhood Scale Using Geographic Information Systems (GIS).*
 
 ## Additional References
 
